@@ -214,7 +214,6 @@ endmodule
 <img width="1919" height="1199" alt="494261401-ffbf2a54-4290-4788-bc24-2357f25fcd27" src="https://github.com/user-attachments/assets/1f1386c2-c9bb-4fd7-94e2-3f881c1d25a4" />
 
 ---
-
 ### RESULT
 
 All flip-flops (SR, D, JK, T) were successfully simulated using Non blocking statements in Verilog HDL.
